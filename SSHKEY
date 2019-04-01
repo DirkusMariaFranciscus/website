@@ -1,0 +1,16 @@
+Your identification has been saved in /home/dirk/.ssh/id_rsa.
+Your public key has been saved in /home/dirk/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:4oEty6puqT+OFBlvhjFlI82Xatv13v5v2kzfNCp3ahQ dirkmf.meulemans@gmail.com
+The key's randomart image is:
++---[RSA 4096]----+
+| .o+  .          |
+|  +o.o           |
+| +  o            |
+|  Bo o .     E   |
+| +.+= = S     .  |
+|  +o = o .   .   |
+| .. o . . . .  o.|
+|.+..     . o o=++|
+|B=+.      ..==*+o|
++----[SHA256]-----+
